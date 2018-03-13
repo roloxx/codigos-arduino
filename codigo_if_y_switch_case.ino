@@ -3,6 +3,7 @@ const int ledrojo=9;// led rojo va conectado al pin 9
 const int ledamarillo=6;// led amarillo va conectado al pin 6
 const int boton=2;// boton va conectado al pin 2
 bool lectura;// 
+// ESTE ES UN COMENTARIO DE git EN LA RoxyClase
 
 int pulsador=0; //numero de veces pulsado
 
